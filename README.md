@@ -12,7 +12,7 @@ Backend API for Sifra Kether. Serves the database, ingestion pipeline, search en
 
 ```bash
 # Clone
-git clone https://github.com/sifra_kether-api.git
+git clone https://github.com/drojo72/sifra_kether-api.git
 cd sifra_kether-api
 
 # Environment
@@ -51,4 +51,4 @@ Auto-generated at `/docs` (Swagger UI) and `/redoc` (ReDoc).
 
 ## License
 
-Apache 2.0 — See [LICENSE](../LICENSE)
+Apache 2.0 — See [LICENSE](https://github.com/drojo72/sifra_kether/LICENSE)
