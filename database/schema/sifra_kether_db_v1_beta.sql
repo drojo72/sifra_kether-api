@@ -1,0 +1,1 @@
+-- Placeholder: Copy the canonical schema here\n-- See Sifra_Kether/docs/database.md\n
